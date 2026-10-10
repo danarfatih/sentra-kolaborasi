@@ -8,4 +8,8 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer B | Albert Trian Jogi Simanjuntak | @Albert-Simanjuntak |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+<<<<<<< HEAD
 - monitoring.sh [detik] - memantau layanan secara berkala (bawaan 10 detik)
+=======
+- healthcheck.sh - memeriksa status layanan (exit 0 = UP, 2 = DOWN)
+>>>>>>> origin/main
